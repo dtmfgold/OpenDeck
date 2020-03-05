@@ -1,6 +1,6 @@
 BUILD_DIR_BASE := ./build
 
-TARGETNAME := fw_opendeck
+TARGETNAME := fw_mega2560
 
 ifneq (,$(wildcard $(BUILD_DIR_BASE)/TARGET))
     TARGETNAME := $(shell cat $(BUILD_DIR_BASE)/TARGET)

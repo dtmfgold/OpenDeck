@@ -4,7 +4,6 @@ fw_leonardo
 fw_mega16u2
 fw_mega2560
 fw_mega2560_jose
-fw_opendeck
 fw_promicro
 fw_teensy2pp
 fw_uno

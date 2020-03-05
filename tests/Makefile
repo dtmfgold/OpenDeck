@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := test
 
-TARGETNAME := fw_opendeck
+TARGETNAME := fw_mega2560
 BUILD_DIR_BASE := ./build
 BUILD_DIR := $(BUILD_DIR_BASE)/$(TARGETNAME)
 SCRIPTS_DIR := ../scripts

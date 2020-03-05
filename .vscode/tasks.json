@@ -50,10 +50,9 @@
         {
             "id": "target",
             "type": "pickString",
-            "default": "fw_opendeck",
+            "default": "fw_mega",
             "description": "Select target for which to build:",
             "options": [
-                "fw_opendeck",
                 "fw_discovery",
                 "fw_leonardo",
                 "fw_mega",

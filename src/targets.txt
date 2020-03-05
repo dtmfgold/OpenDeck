@@ -6,7 +6,6 @@ boot_mega16u2
 boot_mega2560
 boot_mega2560_6mux
 boot_mega2560_jose
-boot_opendeck
 boot_promicro
 boot_teensy2pp
 boot_uno
@@ -21,7 +20,6 @@ fw_mega16u2
 fw_mega2560
 fw_mega2560_6mux
 fw_mega2560_jose
-fw_opendeck
 fw_promicro
 fw_teensy2pp
 fw_uno
